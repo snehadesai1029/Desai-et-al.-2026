@@ -6,11 +6,11 @@ This repository contains the analysis scripts used for the manuscript:
 
 ## Contents
 
-- `scripts/` : Analysis scripts for preprocessing, differential expression analysis, WGCNA, and enrichment analysis as "Proteomics analysis". Analysis scripts for human and mouse comparisons in Figure 8. "Mouse and human proteomics comparison". 
+- `scripts/` : Analysis scripts for preprocessing, differential expression analysis, WGCNA, and enrichment analysis in Figure 5 and 6 as "Proteomics analysis". Analysis scripts for human and mouse comparisons in Figure 8. "Mouse and human proteomics comparison". 
 
 ## Data Availability
 
-Source data can be made upon request for review, and will be made publicly available upon publication. 
+Source data can be made available upon request for review, and will be made publicly available upon publication. 
 
 ## Software
 
