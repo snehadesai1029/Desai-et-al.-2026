@@ -10,7 +10,7 @@ This repository contains the analysis scripts used for the manuscript:
 
 ## Data Availability
 
-Source data can be made upon request for review, and will be made publicly available upon publication. 
+Source data can be made available upon request for review, and will be made publicly available upon publication. 
 
 ## Software
 
